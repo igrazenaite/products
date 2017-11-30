@@ -1,5 +1,5 @@
 import React from 'react';
-import plant from '/home/ieva/products/src/plant2.JPEG';
+import plant from '../plant2.JPEG';
 
 class ProductCardComponent extends React.Component{
     render(){
