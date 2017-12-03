@@ -5,8 +5,8 @@ class ProductListComponent extends React.Component{
     render(){
         return(
             <div>
-            <P1 product={{}}/>
-            <P1 product={{}}/>
+                <P1 product={{}}/>
+                <P1 product={{}}/>
             </div>
         );
     }
